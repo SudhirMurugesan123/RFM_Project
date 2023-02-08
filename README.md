@@ -1,4 +1,4 @@
-###RFM_Project
+### RFM_Project
 
 ## this project does a RFM (recency, frequency, monetary) analysis an a sales dataset. 
 ## Using SQL on MySQL Workbench we conducted multiple analyses and insights that can be turned into data visualizations using Tableau 
